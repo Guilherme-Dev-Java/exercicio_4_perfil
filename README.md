@@ -68,4 +68,4 @@ cd portfolio
 
 ## 📝 Licença
 
-Este projeto é de código aberto e você pode utilizá-lo como base para o seu próprio portfólio. Basta manter os créditos. ✔️
+Este projeto é de código aberto e você pode utilizá-lo como base para o seu próprio portfólio. Basta manter os créditos.
