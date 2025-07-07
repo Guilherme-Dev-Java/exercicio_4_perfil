@@ -1,3 +1,17 @@
+# Portfólio Pessoal — Guilherme Agripino
+
+![GitHub Pages](https://img.shields.io/badge/online--portfolio-success?style=flat&logo=github)
+
+Este é o meu portfólio pessoal desenvolvido com HTML5, CSS3 e JavaScript. Ele reúne informações sobre mim, minhas habilidades técnicas e comportamentais, e uma vitrine dos meus projetos hospedados no GitHub. O site é responsivo, utiliza menu hambúrguer para navegação mobile e pode ser acessado via GitHub Pages.
+
+---
+
+## 📌 Visite online
+
+👉 Acesse: [Portfólio Online](https://guilherme-dev-java.github.io/exercicio_4_perfil/index.html)
+
+---
+
 ## 🧠 Sobre o Projeto
 
 Este portfólio foi criado com o objetivo de apresentar:
