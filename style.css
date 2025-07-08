@@ -7,11 +7,16 @@
 
 /* Variáveis com paleta azul e laranja */
 :root {
-  --cor-primaria: #0077cc;       /* Azul principal */
-  --cor-secundaria: #1e1e1e;     /* Fundo escuro */
-  --cor-destaque: #ff6600;       /* Laranja destaque */
-  --cor-fundo: #f5f7fa;          /* Fundo geral */
-  --cor-texto: #222222;          /* Texto principal */
+  --cor-primaria: #0077cc;
+  /* Azul principal */
+  --cor-secundaria: #1e1e1e;
+  /* Fundo escuro */
+  --cor-destaque: #ff6600;
+  /* Laranja destaque */
+  --cor-fundo: #f5f7fa;
+  /* Fundo geral */
+  --cor-texto: #222222;
+  /* Texto principal */
   --sombra: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
@@ -124,7 +129,8 @@ form {
   gap: 1rem;
 }
 
-input, textarea {
+input,
+textarea {
   padding: 0.8rem;
   border: 1px solid #ccc;
   border-radius: 8px;
@@ -341,6 +347,7 @@ button:hover {
     opacity: 0;
     transform: translateY(10px);
   }
+
   to {
     opacity: 1;
     transform: translateY(0);
