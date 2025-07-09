@@ -64,6 +64,10 @@ header .slogan {
   font-style: italic;
 }
 
+#sobre-mim p{
+  text-align: justify;
+}
+
 /* Menu de navegação */
 nav ul {
   display: flex;
